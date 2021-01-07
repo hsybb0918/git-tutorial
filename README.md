@@ -1,2 +1,2 @@
-# GitTutorialVideo
-A multimedial online/offline Git Tutorial
+# Git Tutorial Video
+A multimedial online/offline Git tutorial.
